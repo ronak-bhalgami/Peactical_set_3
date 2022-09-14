@@ -1,0 +1,2 @@
+c.getArea();
+        // c.getPerimeter();
